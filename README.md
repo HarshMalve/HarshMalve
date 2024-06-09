@@ -1,4 +1,4 @@
-# 💫 Harshavardhan:
+# 💫 Harshavardhan ✨:
 
 🔭 I’m currently working as Full Stack Developer.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with UI/UX & Design.<br>🌱 I’m currently learning DevOps, Python, PostgreSQL.<br>💬 Ask me about Web Development, Programming & Software Development.<br>⚡ Fun fact - "The first website ever created is still online! <br>      It was built by Sir Tim Berners-Lee, the inventor of the World Wide Web, <br>      and it went live on August 6, 1991. You can still visit it today at "info.cern.ch". <br>      It's a simple page explaining the World Wide Web project, a humble beginning for <br>      the vast and interconnected web we know today!"
 
